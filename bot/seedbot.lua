@@ -11,7 +11,7 @@ f:close()
 
 -- API requests
 multipart = require 'multipart-post'
-_TOKEN = "184663195:AAH_qMhc2qyY2gZpjNwif6dCo0ME640Ogg4"
+_TOKEN = "" -- Put Token Here!
 -- API requests
 
 
