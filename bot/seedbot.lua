@@ -248,7 +248,7 @@ Topkecleon
 Vamptacus
 
 Our channels:
-English: @TeleSeedCH
+English: @SeedChannel
 Persian: @IranSeed
 ]],
     help_text_realm = [[
