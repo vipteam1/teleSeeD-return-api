@@ -143,7 +143,7 @@ TeleSeed has several commands that are only usable at certain ranks.
 | [#!/]list realms | Returns a list of all realms. | Y | Y | Y |
 | [#!/]whitelist | User/Bot will not be subject to message checks. | Y | Y | Y |
 | [#!/]support | Promote user to support. | Y | Y | Y |
-| [#!/]-support | deomote user from support. | Y | Y | Y |
+| [#!/]-support | demote user from support. | Y | Y | Y |
 | [#!/]pm [UserID] <text> | Sends a private message to a user by UserID. | Y | Y | Y |
 | [#!/]import <GroupLink> | Bot joins a group by GroupLink. | Y | Y | Y |
 | [#!/]pmblock [UserID] | Block a user from bot private message and bot photo. | Y | Y | Y |
